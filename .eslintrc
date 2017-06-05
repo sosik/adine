@@ -1,0 +1,23 @@
+{
+    "env": {
+        "node": true,
+        "es6": true
+    },
+    "extends": "eslint:recommended",
+    "rules": {
+        "no-trailing-spaces": [2, { "skipBlankLines": false }],
+        "no-extra-semi": 2,
+        "comma-spacing": [2, {"before": false, "after": true}],
+        "indent": [2, "tab", {"SwitchCase": 1}],
+        "space-before-function-paren": [2, "never"],
+        "strict": [2, "global"],
+        "comma-style": [2, "last"],
+        "space-in-parens": [2, "never"],
+        "no-multi-spaces": 2,
+        "curly": 2,
+        "no-mixed-spaces-and-tabs": [2, "smart-tabs"],
+        "space-before-blocks": [2, "always"],
+        "semi": [2, "never"],
+        "keyword-spacing": [2, { "before": true, "after": true, "overrides": { "catch": { "after": false } } }]
+    }
+}

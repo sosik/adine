@@ -1,0 +1,15 @@
+{
+  "name": "adine",
+  "version": "Advanced Dependency Injection Engine",
+  "description": "Dependency injection and configuration engine for nodejs and javascript.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/sosik/adine.git",
+    "type": "git"
+  },
+  "author": "starekp <pavol@starek.sk>",
+  "license": "MIT",
+  "dependencies": {
+    "jsdoc": "^3.4.3"
+  }
+}
