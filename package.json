@@ -1,0 +1,28 @@
+{
+  "name": "adine",
+  "version": "1.0.0",
+  "description": "Advanced dependency injection",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sosik/adine.git"
+  },
+  "keywords": [
+    "framework",
+    "injection"
+  ],
+  "author": "Pavol Starek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sosik/adine/issues"
+  },
+  "homepage": "https://github.com/sosik/adine#readme",
+  "devDependencies": {
+  }
+}
